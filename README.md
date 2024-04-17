@@ -1,8 +1,6 @@
 # Project Name
 
-## Description
-
-Briefly describe the project and its purpose here.
+Age & Gender Live Prediction System
 
 ## Setup Instructions
 
